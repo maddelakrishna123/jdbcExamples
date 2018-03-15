@@ -10,7 +10,7 @@ public class Example {
 		int s=6;
 		s++;
 		System.out.println(s);
-
+//ggggggg
 	}
 
 }
